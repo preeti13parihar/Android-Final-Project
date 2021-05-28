@@ -2,7 +2,9 @@
 
 Topic (Android) : Display the news from news/twitter apis via Retrofit, Moshi, livedata and binding. You need to have the news list view with a search bar and news detail view.
 
-About:
+## Video Link: https://youtu.be/xX8xSFniOW4
+
+## About:
 NewsFlash app is created for the android mobile users.The app implements Google Material Design which make the app beautiful in design and users experience. The API used in making this app is the News API from https://newsapi.org
 
 Features:
