@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#ffff00</color>
+    <color name="navigationBarColor">#D32F2F</color>
+    <color name="colorCardView">#FFFFFF</color>
+    <color name="colorBackground">#D32F2F</color>
+    <color name="colorDarkBackground">#D32F2F</color>
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+
+    <!-- OVERWRITE THESE COLORS FOR A LIGHT THEME -->
+    <!-- MaterialDrawer DEFAULT colors -->
+    <color name="material_drawer_background">#D32F2F</color>
+    <!-- Material DEFAULT text / items colors -->
+    <color name="material_drawer_primary_text">@android:color/white</color>
+    <color name="material_drawer_secondary_text">@android:color/white</color>
+    <!-- Material DEFAULT drawer colors -->
+    <color name="material_drawer_selected">#D32F2F</color>
+    <color name="material_drawer_selected_text">@android:color/white</color>
+    <color name="material_drawer_header_selection_text">#FFF</color>
+</resources>
